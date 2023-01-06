@@ -1,0 +1,10 @@
+[package]
+name "bathynomus_OS"
+version = "0"
+authors = ["Eva"]
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
